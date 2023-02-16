@@ -37,7 +37,7 @@
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Imagem de um App E-commerce" title="App E-commerce, Teste do Kuanta Kusta" src="https://raw.githubusercontent.com/jgoncalves8080/kuanto_kusta/master/.github/preview.gif" />
+  ![image](https://user-images.githubusercontent.com/50240569/219249296-59f361da-51fd-4ee7-958c-97cc63b8b2b0.png)
 </p>
 
 ---
@@ -109,6 +109,5 @@ $ yarn dev # ou npm run dev
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jose%20Goncalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgoncalves8080/)](https://www.linkedin.com/in/jgoncalves8080/)
-[![Gmail Badge](https://img.shields.io/badge/-elianbecaliaguiar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elianbecaliaguiar@gmail.com)](mailto:elianbecaliaguiar@gmail.com)
 
 ---
