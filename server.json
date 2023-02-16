@@ -1,0 +1,168 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    },
+    {
+      "id": 7,
+      "amount": 13
+    },
+    {
+      "id": 8,
+      "amount": 12
+    },
+    {
+      "id": 9,
+      "amount": 4
+    },
+    {
+      "id": 10,
+      "amount": 8
+    },
+    {
+      "id": 11,
+      "amount": 3
+    },
+    {
+      "id": 12,
+      "amount": 7
+    },
+    {
+      "id": 13,
+      "amount": 8
+    },
+    {
+      "id": 14,
+      "amount": 9
+    },
+    {
+      "id": 15,
+      "amount": 13
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tênis de Caminhada Leve Confortável",
+      "price": 179.9,
+      "image": "https://ae01.alicdn.com/kf/Hdaeb0bc30511453fbed0fb314bbc177cL/T-nis-de-malha-masculina-leve-sapatos-tenis-masculino-sapatos-de-caminhada-respir-vel-deslizamento-em.jpg_Q90.jpg_.webp"
+    },
+    {
+      "id": 2,
+      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "price": 139.9,
+      "image": "https://images-americanas.b2w.io/produtos/97006103/imagens/tenis-de-caminhada-confortavel-detalhes-em-couro-legitimo-vr-preto/97006106_3_large.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tênis Adidas Duramo Lite 2.0",
+      "price": 219.9,
+      "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/002/212/775/products/c60eb02a99eab0ff4da9fb67bb79c209-a891665f4afb246e0d16626567907223-640-0.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "price": 139.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/768099/tenis_masculino_de_caminhada_para_academia_7_1_20200527145820.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tênis Adidas Duramo Lite 2.0",
+      "price": 219.9,
+      "image": "https://ae01.alicdn.com/kf/S21b4923207344ef0bcc3b8567da541560/Zzfaber-descal-o-sapatos-femininos-t-nis-flex-veis-senhoras-casuais-apartamentos-unisex-aqua-sapatos-macio.jpg_640x640.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Sapatênis Unissex de Lona - CN Masculino",
+      "price": 199.99,
+      "image": "https://d2r9epyceweg5n.cloudfront.net/stores/002/236/314/products/1665232865867-photoroom-f261b993367d14441516652332870963-640-0.png"
+    },
+    {
+      "id": 5,
+      "title": "Tênis Masculinos Designe Estilo Prosphere - SPORT",
+      "price": 227.99,
+      "image": "https://d2r9epyceweg5n.cloudfront.net/stores/002/236/314/products/1671805005449-photoroom-png-photoroom1-b035daf252bbae4f1816718055719989-1024-1024.webp"
+    },
+    {
+      "id": 6,
+      "title": "Tênis para Corrida Masculino com Design estilo Casual",
+      "price": 190.99,
+      "image": "https://d2r9epyceweg5n.cloudfront.net/stores/002/236/314/products/16635292734841-16a6485d0b2f1751ff16635282527285-1024-1024.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Tênis para corrida Keep Running Masculino",
+      "price": 199.99,
+      "image": "https://d2r9epyceweg5n.cloudfront.net/stores/002/236/314/products/h7512605a20d841929fbfaa1cbdb828d65-88de0ff2f1c9844cb816620854276430-1024-1024.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Sapatênis Unissex de Microfibra Estilo Casual",
+      "price": 194.99,
+      "image": "https://d2r9epyceweg5n.cloudfront.net/stores/002/236/314/products/1664048785904-photoroom1-72a0c859fa4986091916640499271356-1024-1024.png"
+    },
+    {
+      "id": 9,
+      "title": "Sandálias Unissex de Couro",
+      "price": 191.99,
+      "image": "https://d2r9epyceweg5n.cloudfront.net/stores/002/236/314/products/16641356891461-69bf67df2931cc663016641366355563-1024-1024.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Sandálias Unissex de Couro",
+      "price": 191.99,
+      "image": "https://d2r9epyceweg5n.cloudfront.net/stores/002/236/314/products/16641357012431-3bdd60e25e46af32eb16641366356333-1024-1024.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Tênis de Corrida Profissional para Homens",
+      "price": 211.99,
+      "image": "https://d2r9epyceweg5n.cloudfront.net/stores/002/236/314/products/16641356891461-69bf67df2931cc663016641366355563-1024-1024.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Tênis para Homem Mijia",
+      "price": 51.98,
+      "image": "https://d2r9epyceweg5n.cloudfront.net/stores/002/236/314/products/16641499020751-f511c2518d286793d916641489118447-1024-1024.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Tênis Unissex de Malha Estilo Minimalista",
+      "price": 169.99,
+      "image": "https://d2r9epyceweg5n.cloudfront.net/stores/002/236/314/products/h7512605a20d841929fbfaa1cbdb828d65-88de0ff2f1c9844cb816620854276430-1024-1024.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Tênis Unissex de Malha",
+      "price": 169.99,
+      "image": "https://d2r9epyceweg5n.cloudfront.net/stores/002/236/314/products/16635292734841-16a6485d0b2f1751ff16635282527285-1024-1024.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Sandálias Unissex de Couro",
+      "price": 197.65,
+      "image": "https://d2r9epyceweg5n.cloudfront.net/stores/002/236/314/products/16641400079521-7dc49fee71ac9af96c16641404059470-1024-1024.jpg"
+    }
+  ]
+}
