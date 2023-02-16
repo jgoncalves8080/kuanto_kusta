@@ -36,9 +36,8 @@
 
 ## 🎨 Layout
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  [image](https://user-images.githubusercontent.com/50240569/219249296-59f361da-51fd-4ee7-958c-97cc63b8b2b0.png)
-</p>
+![image](https://user-images.githubusercontent.com/50240569/219249296-59f361da-51fd-4ee7-958c-97cc63b8b2b0.png)
+
 
 ---
 
